@@ -13,12 +13,7 @@ menu = st.sidebar.radio(
 # =========================
 # DASHBOARD 1: MASSA
 # =========================
-def page_massa():
-    st.title("⚖️ Hitung Massa dari Konsentrasi")
-    st.info("Ini dashboard perhitungan massa (yang Mr otomatis, ppm, %b/v, dll).")
 
-    # 👉 Tempelkan kode kalkulator massamu di sini
-    # ==================================================
 # DATABASE Ar (118 UNSUR)
 # ==================================================
 AR = {
